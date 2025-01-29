@@ -11,7 +11,6 @@
 image of car 
 ![image](https://github.com/user-attachments/assets/2e9f05ca-6321-4a81-b016-3958eade7edd)
 
-Approved by Carlos Jamerson Jr.
-
 [link to M hub](https://www.bmw-m.com/en/index.html)
 
+Approved by Carlos Jamerson Jr.
